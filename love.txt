@@ -1,0 +1,8 @@
+#my local calculator
+echo addition
+read add
+echo substraction 
+read sub
+echo multiplication
+read multi
+
